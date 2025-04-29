@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+### I'm Lil, a very tall girl named small 🧍‍♀️
 
 <!--
 **lilepage/lilepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
